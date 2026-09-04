@@ -1,1 +1,3 @@
-# Venidiktov 124ISP
+# 124ISP
+Venidiktov Ignat Aleksasndrovich
+Стандартизация технических докумкнтов
